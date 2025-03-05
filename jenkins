@@ -4,7 +4,7 @@ agent any
 stages{
 steps
 {
-git "
+git "https://github.com/chepurilaya/week3.git"
 }
 }
 stage('build')
